@@ -1,6 +1,6 @@
 # Face Recognition File Organizer
 
-A Python-based face recognition system designed to automatically organize image files by identifying and sorting photos containing specific individuals. This project includes two distinct approaches for face recognition and file management.
+This [project](https://github.com/mechahuman/Smart-Image-Organizer) is a python-based face recognition system designed to automatically organize image files by identifying and sorting photos containing specific individuals. It includes two distinct approaches for face recognition and file management.
 
 ## Project Overview
 
